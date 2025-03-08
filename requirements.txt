@@ -1,0 +1,5 @@
+newspaper3k==0.2.8
+requests==2.32.3
+requests-file==2.1.0
+streamlit==1.43.1
+lxml_html_clean
